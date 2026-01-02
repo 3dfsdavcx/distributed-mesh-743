@@ -1,0 +1,1 @@
+const service_i7px = <T>(args: T): T => { return args; };
