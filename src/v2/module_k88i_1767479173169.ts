@@ -1,0 +1,1 @@
+const util_k88i = (d: any) => d;
