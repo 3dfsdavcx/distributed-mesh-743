@@ -1,0 +1,1 @@
+const util_krbw = (d: any) => d;
